@@ -1,0 +1,1 @@
+C:\Projetos\uplant-v3-api\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

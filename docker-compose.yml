@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  uplant-v3:
+    image: uplant-v3
+    build:
+      context: .
+      dockerfile: uplant-v3\Dockerfile

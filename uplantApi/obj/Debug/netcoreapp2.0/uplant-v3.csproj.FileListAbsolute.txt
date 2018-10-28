@@ -1,0 +1,11 @@
+C:\Projetos\uplant-v3-api\uplant-v3\bin\Debug\netcoreapp2.0\uplant-v3.deps.json
+C:\Projetos\uplant-v3-api\uplant-v3\bin\Debug\netcoreapp2.0\uplant-v3.runtimeconfig.json
+C:\Projetos\uplant-v3-api\uplant-v3\bin\Debug\netcoreapp2.0\uplant-v3.runtimeconfig.dev.json
+C:\Projetos\uplant-v3-api\uplant-v3\bin\Debug\netcoreapp2.0\uplant-v3.dll
+C:\Projetos\uplant-v3-api\uplant-v3\bin\Debug\netcoreapp2.0\uplant-v3.pdb
+C:\Projetos\uplant-v3-api\uplant-v3\obj\Debug\netcoreapp2.0\uplant-v3.csprojResolveAssemblyReference.cache
+C:\Projetos\uplant-v3-api\uplant-v3\obj\Debug\netcoreapp2.0\uplant-v3.csproj.CoreCompileInputs.cache
+C:\Projetos\uplant-v3-api\uplant-v3\obj\Debug\netcoreapp2.0\uplant-v3.AssemblyInfoInputs.cache
+C:\Projetos\uplant-v3-api\uplant-v3\obj\Debug\netcoreapp2.0\uplant-v3.AssemblyInfo.cs
+C:\Projetos\uplant-v3-api\uplant-v3\obj\Debug\netcoreapp2.0\uplant-v3.dll
+C:\Projetos\uplant-v3-api\uplant-v3\obj\Debug\netcoreapp2.0\uplant-v3.pdb

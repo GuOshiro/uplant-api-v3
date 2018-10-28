@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  uplant-v3:
+    build:
+      context: C:\Projetos\uplant-v3-api
+      dockerfile: uplant-v3\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: uplant-v3
+    ports:
+    - 80/tcp
+version: '3.0'
